@@ -6,7 +6,8 @@ The DFCFN folder contains training files, excluding datasets and training result
 Please download the datasets and their MATLAB preprocessing programs from the cloud disk：
 https://pan.baidu.com/s/13p2EXv9uZJfsuBgrAm1VRg  |  1kwx
 
-Training results are stored in the results folder.
+Training results are stored in the results folder:
+https://pan.baidu.com/s/15EDrCuqdF6cSbq4Y0QBxtQ  |  xzpi
 
 
 Note: 
